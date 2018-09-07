@@ -1,0 +1,3 @@
+[submodule "git-test-bibliography"]
+	path = git-test-bibliography
+	url = https://github.com/decabrista/git-test-bibliography.git
